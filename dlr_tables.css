@@ -40,6 +40,7 @@ table.schedule caption {
 /* Row Group Styles */
 table.schedule thead {
     background-color: rgb(153, 0, 153);
+    color: white;
 }
 
 table.schedule tfoot {
@@ -61,7 +62,7 @@ col#firstCol {
     width: 16%;
 }
 
-col.dayCols {
+col.dayCol {
     background: rgb(255, 220, 255);
     width: 12%;
 }
